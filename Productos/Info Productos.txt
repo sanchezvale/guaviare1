@@ -1,0 +1,107 @@
+Producto 01
+Nombre: Robamuchachas
+Técnica: Cestería
+Materia Prima: Warumá
+Precio: $12.000
+
+Producto 02
+Nombre: Manilla Nukak Makú
+Técnica: Tejeduría
+Materia Prima: Fibra de cumare torcida
+Precio: $6.000
+
+Producto 03
+Nombre: Ají Molido
+Técnica: Ninguna
+Materia Prima: Ají 100% Natural
+Precio: $10.000
+
+Producto 04
+Nombre: Manilla JIW
+Técnica: Tejeduría
+Materia Prima: Fibra de cumare
+Precio: $6.000
+
+Producto 05
+Nombre: Canasto Urutú
+Técnica: Cestería
+Materia Prima: Caña Warumá
+Precio: $24.000
+
+Producto 06
+Nombre: Contenedor
+Técnica: Tejido Rollo
+Materia Prima: Fibra de cumare
+Precio: $18.000
+
+Producto 07
+Nombre: Jarrón
+Técnica: Tejido rollo
+Materia Prima: Fibra de cumare
+Precio: $38.000
+
+Producto 08
+Nombre: Balay
+Técnica: Cestería
+Materia Prima: Caña de Warumá
+Precio: $23.000
+
+Producto 09
+Nombre: Pantallas
+Técnica: Cestería
+Materia Prima: Fibra de Waramá
+Precio: $32.000
+
+Producto 10
+Nombre: Canasto Nukak Makú
+Técnica: Trenzado
+Materia Prima: Bejuco de Yaré
+Precio: $20.000
+
+Producto 11
+Nombre: Contenedor
+Técnica: Rollo
+Materia Prima: Fibra de cumare
+Precio: $16.000
+
+Producto 12
+Nombre: Chinchorro Nukak Makú
+Técnica: Tejido
+Materia Prima: Fibra de Moriche Torcida
+Precio: $60.000
+
+Producto 13
+Nombre: Chinchorro JIW
+Técnica: Tejido
+Materia Prima: Fibra de cumare torcida.
+Precio: $60.000
+
+Producto 14
+Nombre: Canasto Urutú
+Técnica: Cestería
+Materia Prima: Caña Warumá
+Precio: $28.000
+
+Producto 15
+Nombre: Bolso Missipi
+Técnica: Tejeduría
+Materia Prima: Fibra de Cumare
+Precio: $23.000
+
+Producto 16
+Nombre: Bolso Panuré
+Técnica: Tejeduría
+Materia Prima: Fibra de Cumare, Torcida
+Precio: $24.000
+
+Producto 17
+Nombre: Mochila
+Técnica: Confección
+Materia Prima: Corteza de árbol taja-taja
+Precio: $16.000
+
+Producto 18
+Nombre: Manilla Nukak Makú
+Técnica: Tejeduría
+Materia Prima: Fibra de cumare torcida
+Precio: $8.000
